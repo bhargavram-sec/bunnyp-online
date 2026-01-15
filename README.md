@@ -1,27 +1,66 @@
-# Bunny’s Photography 📸
+# BunnyP — Editorial Photography Website
 
-An editorial, art-driven photography website designed with a strict black & white aesthetic.  
-The project focuses on minimalism, typography, and visual storytelling.
+A minimal, editorial-style photography website designed to showcase portrait and fine-art photography with a clean, modern aesthetic.
 
-## 🌐 Live Website
-https://bunnyp.online  
+Built with a focus on visual storytelling, typography, and performance.
 
-## 🎯 Project Purpose
-This website was created for a professional photographer to showcase work in a clean, timeless, editorial style.
+---
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript  
+## ✦ Project Overview
 
-## 🎨 Design Philosophy
-- Editorial / gallery-inspired layout  
-- Minimal UI, maximum focus on imagery  
-- Responsive across devices  
+**bunnyp.online** is a static frontend website created for a professional photographer to present work in a refined, gallery-like digital experience.  
+The design emphasizes simplicity, negative space, and image-first layout inspired by editorial and luxury portfolios.
 
-## 👨‍💻 Credits
-Website designed & developed by **Bhargav Ram**.
+---
 
-## 📄 License
-This project is protected under the license included in this repository.  
-Unauthorized commercial reuse is not permitted.
+## ✦ Features
+
+- Editorial & minimal design aesthetic  
+- Fully responsive layout (desktop & mobile)
+- Lightweight, fast-loading static site
+- Clean typography and structured layout
+- Custom domain deployment via Netlify
+
+---
+
+## ✦ Tech Stack
+
+- **HTML5** — semantic structure  
+- **CSS3** — layout, responsiveness, styling  
+- **JavaScript** — basic interactivity  
+
+No frameworks. No bloat. Just clean frontend fundamentals.
+
+---
+
+## ✦ Live Website
+
+🔗 **https://bunnyp.online**  
+
+---
+
+## ✦ Deployment
+
+This project is deployed using **Netlify** with continuous deployment from GitHub.
+
+Any updates pushed to the `main` branch are automatically reflected on the live site.
+
+---
+
+## ✦ Credits
+
+**Website Design & Development:**  
+**Bhargav Ram**
+
+Photography content © Bunny’s Photography.
+
+---
+
+## ✦ License
+
+This project is licensed under the **MIT License**.  
+You are free to view and learn from the code, but attribution is required for reuse.
+
+---
+
+> Designed as a real-world client project and portfolio showcase.
